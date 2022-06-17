@@ -1,0 +1,297 @@
+
+/*Theme Name:Tech and All
+Author:Achref Awaissi
+version:1.0
+description:Simple bootstrap wordpress theme
+*/
+*{
+    padding: 0px;
+    margin: 0px;
+    height: auto;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/*header of the page */
+header{
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    border-radius: 0px !important;
+    background-repeat: no-repeat;}
+
+.logo{
+    width: 250px;
+    height: 90px;
+    margin-left: 20%;
+    }
+    #navbarSupportedContent{
+        padding-left: 40%;
+    }
+   
+    #meni-item
+    {
+        border: 1PX white;
+        background-color: #61c6cd;
+        padding-left: 15px;
+        padding-right: 15px;
+        border-radius: 10px;
+        border-width: 10px;
+    }
+   
+    li a{
+        padding-right: 15px;
+        
+   
+    }
+    .down{
+        text-align: center;
+    }
+    .imagescrol{
+        width: 26;
+        height: 45;
+    }
+    .scroltitle{
+        font-weight: bold;
+        color: rgb(170, 165, 165);
+    }
+    /*body */
+
+    #section1
+    {
+        background-color: #fff;
+        text-align: center;
+        
+    }
+
+#section2{
+    background-size: cover;
+    background-position: center;
+    border-radius: 0px !important;
+    background-repeat: no-repeat;
+
+
+}
+
+#section3
+{
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    border-radius: 0px !important;
+    background-repeat: no-repeat;
+}
+
+#section4{
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    border-radius: 0px !important;
+    background-repeat: no-repeat;}
+
+
+#section5{
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    border-radius: 0px !important;
+    background-repeat: no-repeat;
+}
+footer{
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    border-radius: 0px !important;
+    background-repeat: no-repeat;   
+}
+.paragraphe1{
+    color: white;
+    text-align: end;
+    font-size: 14px;
+    padding-top: 25px;
+    padding: 25px 10px 0 10px;
+}
+.title{
+    color: white;
+    text-align: end;
+    padding-top: 30px;
+}
+.title2{
+    color: white;
+    text-align: end;
+    padding-top: 30px;
+}
+.paragraphe1I{
+    color: white;
+    text-align: end;
+    font-size: 14px;
+    padding-top: 25px;
+}
+.titre1{
+    color: #61c6cd;
+    padding-top: 15px;
+}
+.p1{
+    margin: 40px 0px 40px 0px;
+    color: #cccccc;
+}
+#texte2{
+    font-size: 14px;
+    text-align: end;
+    word-wrap: break-word;
+    height: auto;
+}
+.logo1{
+    
+    color: white;
+    width: 250px;
+height: 90px;
+}
+.desktop
+{
+
+object-fit: cover;
+
+}
+.deuxipad{
+   
+    object-fit: cover;
+}
+
+#phonecontainer{
+    margin-top: 30px;
+}
+
+
+
+.devicescontainer{
+    margin-top: 150px;
+}
+.info{
+    margin: 10px 0 0 20px;
+}
+    /*footer */
+
+footer{
+    background-image: url(images/Bacgroundlogun.png);
+}
+
+#icongroup{
+    display: block;
+    font-size: 14px;
+    height: auto;
+}
+
+
+
+.icon1{
+    size: 20px;
+    padding-left: 15px;
+}
+#iconcontainer{
+    margin-top: 10px;
+   align-items: flex-end;
+}
+
+.check{
+    height: auto;
+    display: flex;
+    border-color: seashell;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.checkicon{
+ height: 45px;
+ margin-top: 9px;
+ margin-left: 5px;
+padding-top: 4px;
+ }
+ .text{
+    font-size: 15px;
+    color: #4fb676;
+   font-weight: bold;
+   display: block;
+   margin-bottom: 0px;
+   text-align: start;
+
+}
+.clic{
+font-size: 15px;
+margin-top: 0px;
+text-align: start;
+
+
+
+}
+.pcheck{
+    margin: 10px 0 0 20px;
+}
+.conteneurcheck{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-repeat: no-repeat;
+    height: 65px;
+    width: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-image: url(images/Shape\ 7.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;   
+
+}
+
+
+footer{
+    height: auto;
+}
+#section4{
+    height: auto;
+}
+.copyright{
+color: white;
+margin-top: 15px;
+
+}
+.p1{
+    margin: 40px 0px 40px 0px;
+    color: #cccccc;
+}
+.phone{
+    object-fit: cover;
+    margin-left:80px ;
+}
+.navitems {
+    margin-right: 20%;
+}
+ a{
+    margin-right: 15px;
+}
+
+
+#footimagecontainer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+
+.contf1{
+    margin-top: 150px;
+}
+.rowp{
+     text-align: end;
+    word-wrap: break-word
+}
+#icongroup{
+    font-size: 14px;
+    text-align: end;
+    word-wrap: break-word;
+    height: auto;
+}
+.icon1{
+    size: 20px;
+    padding-left: 15px;
+}
